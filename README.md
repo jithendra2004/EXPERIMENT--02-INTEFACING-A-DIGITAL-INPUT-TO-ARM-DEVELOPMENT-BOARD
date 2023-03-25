@@ -170,7 +170,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
  ## LED ON CONDITION
- ![1](https://user-images.githubusercontent.com/94226297/227711013-f2f46eb5-c38d-4481-8117-7937b2fd3e21.png)
+
+![Untitled](https://user-images.githubusercontent.com/94226297/227711558-71500e35-6350-40eb-a007-acba4a2ff10c.png)
+
  ## LED OFF CONDITION
  ![2](https://user-images.githubusercontent.com/94226297/227711024-ff360782-c235-4c59-9903-ce57d3b8e463.png)
 
